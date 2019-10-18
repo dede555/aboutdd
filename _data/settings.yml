@@ -32,9 +32,9 @@ contact_settings:
   send_button_text: 'Get in Touch'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'www.facebook.com/dorotkade'
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/viki_terror/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -57,7 +57,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/dorota-derlatka/'
 
 color_settings:
   background_color: '#ffffff'
