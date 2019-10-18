@@ -1,7 +1,7 @@
 site: About DD
 
 url: https://dede555.github.io/aboutdd/
-baseurl:  https://dede555.github.io/
+baseurl:  /aboutdd
 
 collections:
   pages:
