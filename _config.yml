@@ -1,7 +1,7 @@
-site: Made Jekyll Theme
+site: About me
 
-url: 
-baseurl: 
+url: https://dede555.github.io/aboutdd/
+baseurl:  /aboutdd
 
 collections:
   pages:
@@ -57,5 +57,5 @@ sass:
 plugins:
   - jekyll-sitemap
 
-paginate: 7
+paginate: 6
 paginate_path: "/blog/page-:num/"
