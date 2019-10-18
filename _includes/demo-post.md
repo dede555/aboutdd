@@ -47,7 +47,7 @@ Here's a really neat custom feature we added – galleries:
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/aboutdd/images/demo.jpg,/images/demo/work-03.jpg,/images/demo/work-04.jpg,/images/demo/work-05.jpg,
+	images = "{{site.aboutdd}}/images/demo.jpg,/images/demo/work-03.jpg,/images/demo/work-04.jpg,/images/demo/work-05.jpg,
 	"
 %}
 
