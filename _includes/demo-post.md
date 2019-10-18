@@ -58,7 +58,7 @@ Inspired by the Galleries feature from WordPress, we've made it easy to create g
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/aboutdd/images/demo/work-02.jpg,/images/demo/work-03.jpg,/images/demo/work-04.jpg,/images/demo/work-05.jpg,
+	images = "aboutdd/images/demo/work-02.jpg,/images/demo/work-03.jpg,/images/demo/work-04.jpg,/images/demo/work-05.jpg,
 	"
 %}
 ```
